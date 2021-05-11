@@ -1,3 +1,5 @@
+![win10lite](https://user-images.githubusercontent.com/25367933/117889741-f4bb4f00-b2ab-11eb-9560-16918c88b1a7.PNG)
+
 [Introduction]
 Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look added to it
 
