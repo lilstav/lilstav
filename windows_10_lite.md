@@ -10,7 +10,7 @@ Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look
 3.2/2 Installation guide in 3 simple steps 
 3.Online account is now valide as option*  
 *if the internet connection is not available
-4.All windows 10 privacy settings put in one row
+4.All windows 10 privacy settings in one row
 
 [Windows]
 Task bar / notification / start have the same/close colors
