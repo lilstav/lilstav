@@ -43,7 +43,7 @@ Segoe UI
 Moved to 4 folders
 
 -Services
-/
+*/
 *Facebook concept used as example (old/new front page redesign) in Edge browser*
 *Intel CPU is used as example*
 *Vega 120 is used as example*
