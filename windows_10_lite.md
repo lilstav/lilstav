@@ -5,7 +5,7 @@ Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look
 1.0 
 
 [install window]
-1.Two operating systems to choose only
+1.Only two operating systems to choose
 2.1/2 Installation in 4 steps 
 3.2/2 Installation guide in 3 simple steps 
 3.Online account is now valide as option*  
