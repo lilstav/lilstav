@@ -33,7 +33,7 @@ About now display which GPU is installed
 New layout /  processes moved two categories
 Apps : Lists of the current running apps
 Windows processes : Lists of windows processes and drivers  
-Programs has two background processes at max / background processes shown below every processes
+Programs have two background processes at max / background processes shown below every processes
 -Graphics
 AMD Ryzen / Nvidia GPU support
 INTEL / AMD GPU support  
