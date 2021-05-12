@@ -24,4 +24,4 @@ Built in linux
 New Windows Virtual Server for companies and cloud servers
 Files locked/encrypted
 
--Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi قيس سعيدي
+-Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
