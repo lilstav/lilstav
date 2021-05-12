@@ -18,7 +18,6 @@ Forza horizon releases [Demo] is available in windows store as a test kit
 -Registry Moved to 4 folders
 
 [Windows 10 Lite Server 1.0]
-
 -
 
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
