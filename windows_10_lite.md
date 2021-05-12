@@ -24,7 +24,7 @@ Built in linux
 New Windows Virtual Server for companies and cloud servers -Dispaly Device Numbers -Added Device ID Search button
 Files locked/encrypted
 
-![Captureez](https://user-images.githubusercontent.com/25367933/118020881-88dff180-b352-11eb-9670-d549fe69e336.PNG)
+![Capture2](https://user-images.githubusercontent.com/25367933/118040669-c1d79080-b369-11eb-87a5-cf35778d1d90.PNG)
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
