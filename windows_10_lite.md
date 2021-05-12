@@ -21,7 +21,7 @@ Forza horizon releases [Demo] is available in windows store as a test kit
 
 [Windows 10 Lite Server 1.0]
 Built in linux
-New Windows Virtual Server for companies and cloud servers
+New Windows Virtual Server for companies and cloud servers -Dispaly Device Numbers -Added Device ID Search button
 Files locked/encrypted
 
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
