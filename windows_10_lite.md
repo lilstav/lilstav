@@ -23,6 +23,7 @@ Forza horizon releases [Demo] is available in windows store as a test kit
 Built in linux
 New Windows Virtual Server for companies and cloud servers -Dispaly Device Numbers -Added Device ID Search button
 Files locked/encrypted
+
 ![Captureez](https://user-images.githubusercontent.com/25367933/118020881-88dff180-b352-11eb-9670-d549fe69e336.PNG)
 
 -Microsoft Office 10 Lite /
