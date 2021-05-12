@@ -17,7 +17,8 @@ Forza horizon releases [Demo] is available in windows store as a test kit
 
 -Registry Moved to 4 folders
 
-![lite server](https://user-images.githubusercontent.com/25367933/117982483-f3326b00-b32d-11eb-8b88-323fd1d041d3.PNG)
+![liteser](https://user-images.githubusercontent.com/25367933/117982626-1b21ce80-b32e-11eb-86cb-ca1b7d528a01.PNG)
+
 [Windows 10 Lite Server 1.0]
 built in linux
 
