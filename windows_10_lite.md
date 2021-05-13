@@ -26,7 +26,7 @@ Files locked/encrypted
 
 ![Capture2](https://user-images.githubusercontent.com/25367933/118040669-c1d79080-b369-11eb-87a5-cf35778d1d90.PNG)
 
-Exemple of AMD Ryzen CPU [U stands for Ultra low power consumption]
+Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 
 ![amd_ryzen_u](https://user-images.githubusercontent.com/25367933/118114350-5d571880-b3df-11eb-9db0-9e69f5827c8f.PNG)
 
