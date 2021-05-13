@@ -1,4 +1,3 @@
-![1 – 3](https://user-images.githubusercontent.com/25367933/118198449-d50d5d80-b448-11eb-9a50-a9dc22fe66c1.png)
 ![117890151-8aef7500-b2ac-11eb-9ba3-dfa31b027a4f](https://user-images.githubusercontent.com/25367933/117924281-68ca1700-b2ed-11eb-9369-590325cfaf34.png)
 
 Secure and private 64-bit only
@@ -34,7 +33,8 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 Security lock for bios:
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118166588-8e563e00-b41d-11eb-8824-364fa491b90e.png)
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
-![1 – 3](https://user-images.githubusercontent.com/25367933/118198252-6e883f80-b448-11eb-8938-f6a59154d9d1.png)
+![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
+
 
 
 -Microsoft Office 10 Lite /
