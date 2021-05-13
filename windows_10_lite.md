@@ -24,7 +24,7 @@ Built in linux
 New Windows Virtual Server for companies and cloud servers -Display Device Numbers -Added Device ID Search button
 Files locked/encrypted
 
-![Capture2](https://user-images.githubusercontent.com/25367933/118040669-c1d79080-b369-11eb-87a5-cf35778d1d90.PNG)
+![usb_lock](https://user-images.githubusercontent.com/25367933/118194918-1b12f300-b442-11eb-909a-19003bab2e62.PNG)
 
 Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 
