@@ -32,7 +32,9 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 
 Security lock for bios:
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118166588-8e563e00-b41d-11eb-8824-364fa491b90e.png)
-![1 – 2](https://user-images.githubusercontent.com/25367933/118195092-7ba23000-b442-11eb-9a7f-4ec9c5d971c8.png)
+![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
+![1 – 3](https://user-images.githubusercontent.com/25367933/118198252-6e883f80-b448-11eb-8938-f6a59154d9d1.png)
+
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
