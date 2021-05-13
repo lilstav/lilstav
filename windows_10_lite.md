@@ -21,7 +21,7 @@ Forza horizon releases [Demo] is available in windows store as a test kit
 
 [Windows 10 Lite Server 1.0]
 Built in linux
-New Windows Virtual Server for companies and cloud servers -Dispaly Device Numbers -Added Device ID Search button
+New Windows Virtual Server for companies and cloud servers -Display Device Numbers -Added Device ID Search button
 Files locked/encrypted
 
 ![Capture2](https://user-images.githubusercontent.com/25367933/118040669-c1d79080-b369-11eb-87a5-cf35778d1d90.PNG)
