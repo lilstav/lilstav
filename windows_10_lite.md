@@ -76,5 +76,6 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 
+[in progress]
 -Microsoft Office 10 Lite /
 -Services / Facebook concept is used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example AMD Ryzen is used as example [Copyrights (c) 2021] Kais Saidi
