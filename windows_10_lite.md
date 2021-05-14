@@ -34,7 +34,7 @@ Security lock for bios:
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118265398-0ae62c80-b4b1-11eb-8761-e8d69f9a12d8.png)
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118265403-0b7ec300-b4b1-11eb-8ae2-92bad9295cca.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118265405-0caff000-b4b1-11eb-9e40-fa3baddff645.png)
-![1 – 4](https://user-images.githubusercontent.com/25367933/118265407-0de11d00-b4b1-11eb-8ebc-789d49fe8214.png)
+![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118265410-0f124a00-b4b1-11eb-9afb-24ab5e633cbf.png)
 
 -Microsoft Office 10 Lite /
