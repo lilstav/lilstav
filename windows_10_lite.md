@@ -21,13 +21,11 @@ The windows settings window opens in the middle
 
 All windows have the same bar 
 
-New simplified file explorer
+New simplified file explorer and disk managmement
 
 New windows cleaner Disk cleanup moved to windows cleaner
 
 New user account window
-
-Disk partition updated
 
 Internet explorer removed ProgramData and USER/AppData moved to C:/ProgramData
 
