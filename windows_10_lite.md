@@ -36,7 +36,6 @@ Security lock for bios:
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118265405-0caff000-b4b1-11eb-9e40-fa3baddff645.png)
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118265407-0de11d00-b4b1-11eb-8ebc-789d49fe8214.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118265410-0f124a00-b4b1-11eb-9afb-24ab5e633cbf.png)
-1 Font Size 2 Colors
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU used as example Vega 120 used as example AMD Ryzen used as example [Copyrights (c) 2021] Kais Saidi
