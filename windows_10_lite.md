@@ -1,5 +1,3 @@
-![117890151-8aef7500-b2ac-11eb-9ba3-dfa31b027a4f](https://user-images.githubusercontent.com/25367933/117924281-68ca1700-b2ed-11eb-9369-590325cfaf34.png)
-
 Secure and private 64-bit only
 
 [Introduction] Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look added to it
@@ -35,6 +33,8 @@ Security lock for bios:
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118206314-2245fb00-b45a-11eb-903d-e1c8eb7d049a.png)
+![1 – 5](https://user-images.githubusercontent.com/25367933/118208457-b3b76c00-b45e-11eb-873e-853be4aef29a.png)
+
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
