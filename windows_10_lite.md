@@ -34,9 +34,7 @@ Security lock for bios:
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118203163-65e93680-b453-11eb-9cdf-16e16df3afb8.png)
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
-![1 – 4](https://user-images.githubusercontent.com/25367933/118206185-df842300-b459-11eb-857d-763ed38d950a.png)
-
-
+![1 – 4](https://user-images.githubusercontent.com/25367933/118206314-2245fb00-b45a-11eb-903d-e1c8eb7d049a.png)
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
