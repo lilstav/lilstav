@@ -32,7 +32,7 @@ Security lock for bios:
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118203163-65e93680-b453-11eb-9cdf-16e16df3afb8.png)
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
-![1 – 4](https://user-images.githubusercontent.com/25367933/118208775-46580b00-b45f-11eb-9903-14c5c4f96fe7.png)
+![1 – 4](https://user-images.githubusercontent.com/25367933/118209070-d1d19c00-b45f-11eb-9499-4ceb704d827f.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118208795-4c4dec00-b45f-11eb-8800-21080ee7146b.png)
 
 
