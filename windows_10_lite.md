@@ -49,7 +49,7 @@ Apps : Lists of the current running apps Windows processes : Lists of windows pr
 
 Programs have two background processes at max / background processes shown below every processes -Graphics AMD Ryzen / Nvidia GPU support INTEL / AMD GPU support
 
-Forza horizon releases [Demo] is available in windows store as a test kit
+Forza horizon releases [Demo] is available on windows store as a test kit
 
 [Font] Segoe UI
 
