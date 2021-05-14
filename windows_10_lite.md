@@ -4,7 +4,7 @@ Secure and private 64-bit only
 
 [Introduction] Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look added to it
 
-[Build] 1.0
+[Build] 1.0.0.5
 
 [Install window] 1.Only 2 operating systems to choose 
 2.1/2 Installation in 4 steps 
