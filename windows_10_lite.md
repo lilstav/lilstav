@@ -6,7 +6,7 @@ Secure and private 64-bit only
 
 [Build] 1.0
 
-[install window] 1.Only 2 operating systems to choose 2.1/2 Installation in 4 steps 3.2/2 Installation guide in 3 simple steps 3.Online account is now valid as option*
+[Install window] 1.Only 2 operating systems to choose 2.1/2 Installation in 4 steps 3.2/2 Installation guide in 3 simple steps 3.Online account is now valid as option*
 *if the internet connection is not available 4.All windows 10 privacy settings in one row
 
 [Windows] Task bar / notification / start have the same/close colors The windows settings window opens in the middle All windows have the same bar New simplified file explorer New windows cleaner Disk cleanup moved to windows cleaner New user account window Internet explorer removed ProgramData and USER/AppData moved to C:/ProgramData OneDrive can be disabled through settings / hidden from explorer -Edge Edge now have google search build into it Email -- Choose between Microsoft or Gmail Google translation is now available in Edge -Settings Xbox Game bar [removed] Xbox control implemented in windows Record is now implemented in windows, you can disable it through Vega graphics control panel About now display which GPU is installed -Task manager New layout / processes moved two categories Apps : Lists of the current running apps Windows processes : Lists of windows processes and drivers
