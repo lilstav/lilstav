@@ -65,8 +65,8 @@ Files locked/encrypted
 ![usb_lock](https://user-images.githubusercontent.com/25367933/118194918-1b12f300-b442-11eb-909a-19003bab2e62.PNG)
 
 Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
-![9 – 2](https://user-images.githubusercontent.com/25367933/118316819-35ef7100-b4ef-11eb-98e6-d2efa706cb3f.png)
-![9 – 3](https://user-images.githubusercontent.com/25367933/118316581-ead55e00-b4ee-11eb-9823-a3bd1a8cd801.png)
+![1](https://user-images.githubusercontent.com/25367933/118317925-97fca600-b4f0-11eb-889b-d2d583629fb8.PNG)
+![2](https://user-images.githubusercontent.com/25367933/118317940-9b902d00-b4f0-11eb-8368-d30cdbd3c7b4.PNG)
 
 [Security lock for bios]
 ![1 – 6](https://user-images.githubusercontent.com/25367933/118268332-294e2700-b4b5-11eb-9c9e-fd2a7189da74.png)
