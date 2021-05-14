@@ -31,7 +31,7 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 ![amd_u](https://user-images.githubusercontent.com/25367933/118118203-86c67300-b3e4-11eb-8867-26914de27eeb.PNG)
 
 Security lock for bios:
-![1 – 1](https://user-images.githubusercontent.com/25367933/118202841-a5fbe980-b452-11eb-8f73-0aaa284b6517.png)
+![1 – 1](https://user-images.githubusercontent.com/25367933/118203072-320e1100-b453-11eb-95bb-f22a8c29d1c9.png)
 ![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
 
