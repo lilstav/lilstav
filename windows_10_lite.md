@@ -70,7 +70,7 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 
 System requirements
 
-![windows](https://user-images.githubusercontent.com/25367933/118335761-3fd19e00-b508-11eb-84e3-7511c8d035fd.PNG)
+![ver](https://user-images.githubusercontent.com/25367933/118336187-136a5180-b509-11eb-8b78-8ca6428ef612.PNG)
 
 [Security lock for bios]
 ![1 – 6](https://user-images.githubusercontent.com/25367933/118268332-294e2700-b4b5-11eb-9c9e-fd2a7189da74.png)
