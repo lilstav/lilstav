@@ -44,4 +44,4 @@
 [Windows 10 Lite Server Edition]
 ![42](https://user-images.githubusercontent.com/25367933/118271187-dd9d7c80-b4b8-11eb-95e7-84d465bfe6e1.png)
 ![43](https://user-images.githubusercontent.com/25367933/118271204-e1c99a00-b4b8-11eb-9760-d0d10023b16e.png)
-![44](https://user-images.githubusercontent.com/25367933/118271218-e42bf400-b4b8-11eb-8bbd-60d38a8b14a2.png)
+![44](https://user-images.githubusercontent.com/25367933/118278532-0118f500-b4c2-11eb-9a9f-43714d436d85.png)
