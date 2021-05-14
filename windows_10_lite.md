@@ -27,6 +27,8 @@ New windows cleaner Disk cleanup moved to windows cleaner
 
 New user account window
 
+Disk partition updated
+
 Internet explorer removed ProgramData and USER/AppData moved to C:/ProgramData
 
 OneDrive can be disabled through settings / hidden from explorer
