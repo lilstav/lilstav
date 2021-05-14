@@ -42,4 +42,4 @@ Security lock for bios:
 
 
 -Microsoft Office 10 Lite /
--Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example [Copyrights (c) 2021] Kais Saidi
+-Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU used as example Vega 120 used as example AMD Ryzen used as example [Copyrights (c) 2021] Kais Saidi
