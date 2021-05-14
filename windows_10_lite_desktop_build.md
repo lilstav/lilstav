@@ -1,5 +1,3 @@
-![118209433-81a70980-b460-11eb-94d3-dd4eda748036](https://user-images.githubusercontent.com/25367933/118276843-02e1b900-b4c0-11eb-8c09-90c23873b309.png)
-
 [Windows 10 Lite]
 ![1](https://user-images.githubusercontent.com/25367933/118270914-8f887900-b4b8-11eb-8fcd-3a6a1e10c793.png)
 ![2](https://user-images.githubusercontent.com/25367933/118270925-91523c80-b4b8-11eb-843a-2be77ce75ed9.png)
@@ -42,6 +40,7 @@
 ![39](https://user-images.githubusercontent.com/25367933/118271173-d8d8c880-b4b8-11eb-88d9-c211dba35d54.png)
 ![40](https://user-images.githubusercontent.com/25367933/118271176-daa28c00-b4b8-11eb-92f8-4ddf61a8ada2.png)
 ![41](https://user-images.githubusercontent.com/25367933/118271179-db3b2280-b4b8-11eb-9408-66db1eb49551.png)
+
 [Windows 10 Lite Server Edition]
 ![42](https://user-images.githubusercontent.com/25367933/118271187-dd9d7c80-b4b8-11eb-95e7-84d465bfe6e1.png)
 ![43](https://user-images.githubusercontent.com/25367933/118271204-e1c99a00-b4b8-11eb-9760-d0d10023b16e.png)
