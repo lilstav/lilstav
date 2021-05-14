@@ -30,16 +30,12 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 ![8](https://user-images.githubusercontent.com/25367933/118218253-026d0200-b46f-11eb-8a28-7d49b298cd57.PNG)
 ![9](https://user-images.githubusercontent.com/25367933/118218256-03059880-b46f-11eb-8c69-778a26f32312.PNG)
 
-
 Security lock for bios:
-![1 – 1](https://user-images.githubusercontent.com/25367933/118213217-68ed2280-b465-11eb-90cf-73f7616b30ed.png)
-![1 – 2](https://user-images.githubusercontent.com/25367933/118198247-6af4b880-b448-11eb-8789-f748f3269f82.png)
-![1 – 3](https://user-images.githubusercontent.com/25367933/118198477-e35b7980-b448-11eb-9908-e4f5fa14e505.png)
-![1 – 4](https://user-images.githubusercontent.com/25367933/118209070-d1d19c00-b45f-11eb-9499-4ceb704d827f.png)
-![1 – 5](https://user-images.githubusercontent.com/25367933/118208795-4c4dec00-b45f-11eb-8800-21080ee7146b.png)
-
-
-
+![1 – 1](https://user-images.githubusercontent.com/25367933/118263300-f9e7ec00-b4ad-11eb-8863-000d5f73d595.png)
+![1 – 2](https://user-images.githubusercontent.com/25367933/118263304-fb191900-b4ad-11eb-94f5-e017d14172aa.png)
+![1 – 3](https://user-images.githubusercontent.com/25367933/118263312-fc4a4600-b4ad-11eb-8814-e6e070f68e91.png)
+![1 – 4](https://user-images.githubusercontent.com/25367933/118263314-fce2dc80-b4ad-11eb-9351-74fcf1d37c05.png)
+![1 – 5](https://user-images.githubusercontent.com/25367933/118263317-fe140980-b4ad-11eb-9176-e3922bd9a094.png)
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept used as example (old/new front page redesign) in Edge browser Intel CPU used as example Vega 120 used as example AMD Ryzen used as example [Copyrights (c) 2021] Kais Saidi
