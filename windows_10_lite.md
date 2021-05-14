@@ -41,7 +41,7 @@ Xbox control implemented in windows
 
 Record is now implemented in windows, you can disable it through Vega graphics control panel
 
-About now display which GPU is installed
+About now displays which GPU is installed
 
 Task manager -New layout / processes moved two categories 
 
