@@ -1,4 +1,5 @@
 ![117924281-68ca1700-b2ed-11eb-9369-590325cfaf34](https://user-images.githubusercontent.com/25367933/118209433-81a70980-b460-11eb-94d3-dd4eda748036.png)
+
 Secure and private 64-bit only
 
 [Introduction] Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look added to it
