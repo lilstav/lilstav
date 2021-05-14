@@ -6,7 +6,7 @@ Secure and private 64-bit only
 
 [Build] 1.0.0.5
 
-[Install window] 1.Only 2 operating systems to choose 
+[Install window] 1.Only 2 operating systems to choose for lite edition 
 2.1/2 Installation in 4 steps 
 3.2/2 Installation guide in 3 simple steps 
 3.Online account is now valid as option*
@@ -70,7 +70,8 @@ Example of AMD Ryzen CPU [U stands for Ultra low power consumption]
 
 System requirements
 
-![ver](https://user-images.githubusercontent.com/25367933/118336187-136a5180-b509-11eb-8b78-8ca6428ef612.PNG)
+![ver3](https://user-images.githubusercontent.com/25367933/118336459-a73c1d80-b509-11eb-8337-1352154b437a.PNG)
+
 
 [Security lock for bios]
 ![1 – 6](https://user-images.githubusercontent.com/25367933/118268332-294e2700-b4b5-11eb-9c9e-fd2a7189da74.png)
