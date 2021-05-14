@@ -43,7 +43,7 @@ Record is now implemented in windows, you can disable it through Vega graphics c
 
 About now displays which GPU is installed
 
-Task manager -New layout / processes moved two categories 
+Task manager -New layout / processes moved to two categories 
 
 Apps : Lists of the current running apps Windows processes : Lists of windows processes and drivers
 
