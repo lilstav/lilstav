@@ -104,7 +104,7 @@ System requirements
 
 ![ver3](https://user-images.githubusercontent.com/25367933/118336459-a73c1d80-b509-11eb-8337-1352154b437a.PNG)
 
-Microsoft Windows 10 Lite Server Edition : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHmjKPH7auo?e=xm3kGa
+Microsoft Windows 10 Lite Server Edition : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHmjKPH7auo?e=0k938C
 
 [Security lock for bios]
 ![1 – 6](https://user-images.githubusercontent.com/25367933/118268332-294e2700-b4b5-11eb-9c9e-fd2a7189da74.png)
