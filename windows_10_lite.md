@@ -30,7 +30,7 @@ New user account window
 
 Internet explorer [removed]
 
-The ProgramData and USER/AppData folder moved to C:/ProgramData
+The ProgramData and USER/AppData folders moved to C:/ProgramData
 
 OneDrive can be disabled/hiden from explorer through settings
 
