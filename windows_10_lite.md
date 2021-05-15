@@ -14,7 +14,7 @@ Secure and private 64-bit only
 4.All windows 10 privacy settings in one row
 
 [Windows]
-Task bar,notification and start have the same/close colors
+Task bar/notification and start have the same color attribute
 
 The windows settings window opens in the middle
 
