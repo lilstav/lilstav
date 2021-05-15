@@ -44,7 +44,7 @@
 ![38](https://user-images.githubusercontent.com/25367933/118293446-940d5b80-b4d1-11eb-937f-76e2afe59bff.png)
 ![39](https://user-images.githubusercontent.com/25367933/118302119-c0c67080-b4db-11eb-8973-671d87eb12ce.png)
 ![40](https://user-images.githubusercontent.com/25367933/118293457-966fb580-b4d1-11eb-9bb4-15d2a25983a3.png)
-![42 – 7](https://user-images.githubusercontent.com/25367933/118344317-8aadde80-b525-11eb-8ca9-7fab3ab42a13.png)
+![42 – 7](https://user-images.githubusercontent.com/25367933/118344680-736ff080-b527-11eb-89e1-8e43609fc169.png)
 ![41](https://user-images.githubusercontent.com/25367933/118293463-97a0e280-b4d1-11eb-8325-bb15eb1f3cde.png)
 
 [Windows 10 Lite Server Edition]
