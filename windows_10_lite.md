@@ -85,7 +85,7 @@ Forza horizon releases [Demo] is now available on windows store as a test kit
 
 Registry now have 4 folders
 
-![liteser](https://user-images.githubusercontent.com/25367933/117982626-1b21ce80-b32e-11eb-86cb-ca1b7d528a01.PNG)
+![liteserver](https://user-images.githubusercontent.com/25367933/118380582-c5258300-b5da-11eb-8574-bdc22f2a9b8c.PNG)
 
 [Windows 10 Lite Server 1.0]
 Built in linux
