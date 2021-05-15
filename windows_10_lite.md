@@ -14,51 +14,65 @@ Secure and private 64-bit only
 4.All windows 10 privacy settings in one row
 
 [Windows]
-Task bar / notification / start have the same/close colors
+Task bar,notification and start have the same/close colors
 
 The windows settings window opens in the middle
 
-All windows have the same bar 
+All the windows have the same frames
 
 New simplified file explorer and disk managmement
 
-New windows cleaner Disk cleanup moved to windows cleaner
+New windows cleaner 
+
+The disk cleanup moved to windows cleaner
 
 New user account window
 
-Internet explorer removed ProgramData and USER/AppData moved to C:/ProgramData
+Internet explorer [removed]
 
-OneDrive can be disabled through settings / hidden from explorer
+The ProgramData and USER/AppData folder moved to C:/ProgramData
 
-Edge now have google search build into it
+OneDrive can be disabled/hiden from explorer through settings
 
-Email -- Choose between Microsoft or Gmail Google translation is now available in Edge
+The Edge browser now have google search build into it
 
-Settings Xbox Game bar [removed] 
+Email -- You can choose between Microsoft or Gmail now
 
-Xbox control implemented in windows
+Google translation is now available in Edge browser
+
+Xbox Game bar settings [removed] 
+
+The Xbox control utility is implemented in windows
 
 Record is now implemented in windows, you can disable it through Vega graphics control panel
 
 About now displays which GPU is installed
 
-Task manager -New layout / processes moved to two categories 
+New layout for Task manager / Processes moved to two categories 
 
-Apps : Lists of the current running apps Windows processes : Lists of windows processes and drivers
+Apps : Lists of the current running apps 
 
-Programs have two background processes at max / background processes shown below every processes -Graphics AMD Ryzen / Nvidia GPU support INTEL / AMD GPU support
+Windows processes : Lists of windows processes and drivers
 
-Forza horizon releases [Demo] is available on windows store as a test kit
+Programs have two background processes at maximum / background processes is now shown below every processes 
+
+Added AMD Ryzen / Nvidia GPU support 
+
+Added INTEL / AMD GPU support
+
+Forza horizon releases [Demo] is now available on windows store as a test kit
 
 [Font] Segoe UI
 
--Registry Moved to 4 folders
+Registry now have 4 folders
 
 ![liteser](https://user-images.githubusercontent.com/25367933/117982626-1b21ce80-b32e-11eb-86cb-ca1b7d528a01.PNG)
 
 [Windows 10 Lite Server 1.0]
 Built in linux
-New Windows Virtual Server for companies and cloud servers -Display Device Numbers -Added Device ID Search button
+New Windows Virtual Server for companies and cloud servers 
+Added Display Device Numbers
+Added Device ID Search button
 Files locked/encrypted
 
 ![usb_lock](https://user-images.githubusercontent.com/25367933/118194918-1b12f300-b442-11eb-909a-19003bab2e62.PNG)
@@ -83,4 +97,7 @@ System requirements
 *BlUE SCREEN OF DEATH* updated
 
 -Microsoft Office 10 Lite /
--Services / Facebook concept is used as example (old/new front page redesign) in Edge browser Intel CPU is used as example Vega 120 is used as example AMD Ryzen is used as example [Copyrights (c) 2021] Kais Saidi
+-Services / Facebook concept is used as example (old/new front page redesign) in Edge browser 
+Intel CPU is used as example Vega 120 is used as example 
+AMD Ryzen is used as example 
+[Copyrights (c) 2021] Kais Saidi
