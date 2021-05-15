@@ -16,7 +16,7 @@ Secure and private 64-bit only
 [Windows]
 Task bar / notification / start have the same/close colors
 
-New BlUE SCREEN OF DEATH
+*BlUE SCREEN OF DEATH* updated
 
 The windows settings window opens in the middle
 
