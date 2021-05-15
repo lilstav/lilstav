@@ -16,7 +16,7 @@ Secure and private 64-bit only
 [Windows]
 Task bar/notification and start have the same color attribute
 
-![window](https://user-images.githubusercontent.com/25367933/118358057-05eab100-b575-11eb-9bf5-d9dc89d768f4.PNG)
+![window](https://user-images.githubusercontent.com/25367933/118358108-3b8f9a00-b575-11eb-88d0-ab22c6c719d8.PNG)
 
 The windows settings window opens in the middle
 
