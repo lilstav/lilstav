@@ -52,7 +52,7 @@ New layout for Task manager / Processes moved to two categories
 
 Apps : Lists of the current running apps 
 
-Windows processes : Lists of windows processes and drivers
+Windows processes : Lists windows processes and drivers
 
 Programs have two background processes at maximum / background processes is now shown below every processes 
 
