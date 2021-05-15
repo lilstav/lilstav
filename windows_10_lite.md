@@ -110,7 +110,7 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 0](https://user-images.githubusercontent.com/25367933/118372293-dc4b7d00-b5a8-11eb-9dc4-e5de49f36922.png)
 ![1 – 6](https://user-images.githubusercontent.com/25367933/118268332-294e2700-b4b5-11eb-9c9e-fd2a7189da74.png)
 ![1 – 1](https://user-images.githubusercontent.com/25367933/118269332-8696a800-b4b6-11eb-8208-a6d4c7c0f927.png)
-![1 – 2](https://user-images.githubusercontent.com/25367933/118265403-0b7ec300-b4b1-11eb-8ae2-92bad9295cca.png)
+![1 – 2](https://user-images.githubusercontent.com/25367933/118380512-2bf66c80-b5da-11eb-83ca-6a300b0b358d.png)
 ![1 – 3](https://user-images.githubusercontent.com/25367933/118265405-0caff000-b4b1-11eb-9e40-fa3baddff645.png)
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
