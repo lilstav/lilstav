@@ -118,6 +118,7 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 [ATM system display]
 
 ![atmdisplay](https://user-images.githubusercontent.com/25367933/118410335-cad8a280-b686-11eb-8d04-4828bc35ba16.PNG)
+![atmreader](https://user-images.githubusercontent.com/25367933/118412370-7be43a80-b691-11eb-9a04-3b1f0617d126.PNG)
 ![2 – 1](https://user-images.githubusercontent.com/25367933/118402601-7f140200-b662-11eb-8afe-3bb478a55cff.png)
 ![2 – 2](https://user-images.githubusercontent.com/25367933/118402605-80452f00-b662-11eb-8214-ea82dce789ce.png)
 ![2 – 3](https://user-images.githubusercontent.com/25367933/118402570-66a3e780-b662-11eb-83bc-2480cd43e0bd.png)
