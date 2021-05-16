@@ -119,9 +119,10 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 
 ![atmdisplay](https://user-images.githubusercontent.com/25367933/118410335-cad8a280-b686-11eb-8d04-4828bc35ba16.PNG)
 ![atmreader](https://user-images.githubusercontent.com/25367933/118412421-bc43b880-b691-11eb-9cb9-77a1a923cb88.PNG)
-![2 – 1](https://user-images.githubusercontent.com/25367933/118402601-7f140200-b662-11eb-8afe-3bb478a55cff.png)
-![2 – 2](https://user-images.githubusercontent.com/25367933/118402605-80452f00-b662-11eb-8214-ea82dce789ce.png)
-![2 – 3](https://user-images.githubusercontent.com/25367933/118402570-66a3e780-b662-11eb-83bc-2480cd43e0bd.png)
+![2 – 1](https://user-images.githubusercontent.com/25367933/118416246-a12f7380-b6a6-11eb-8990-20ef4d7d5021.png)
+![2 – 2](https://user-images.githubusercontent.com/25367933/118416253-adb3cc00-b6a6-11eb-8020-2cc92fd204ea.png)
+![2 – 3](https://user-images.githubusercontent.com/25367933/118416256-b1475300-b6a6-11eb-9cbb-36caaea6eb82.png)
+![2 – 4](https://user-images.githubusercontent.com/25367933/118416258-b2788000-b6a6-11eb-87db-26d186e88a65.png)
 
 *BlUE SCREEN OF DEATH* updated
 
