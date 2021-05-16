@@ -116,7 +116,7 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 
 [ATM system display]
-New ATM system technologies is a great way to minimize data consomption and provide a great user expirience
+New ATM system technologies is a great way to minimize data consomption and provide a great user experience
 ![atmdisplay](https://user-images.githubusercontent.com/25367933/118416540-2404fe00-b6a8-11eb-82c8-c959cea48774.png)
 ![atmreader](https://user-images.githubusercontent.com/25367933/118416670-c58c4f80-b6a8-11eb-81b7-ab0e8785a75c.png)
 ![2 – 1](https://user-images.githubusercontent.com/25367933/118416246-a12f7380-b6a6-11eb-8990-20ef4d7d5021.png)
