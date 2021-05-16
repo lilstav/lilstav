@@ -115,6 +115,11 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 
+[Bank]
+![2 – 1](https://user-images.githubusercontent.com/25367933/118401303-1b3b0a80-b65d-11eb-99c2-c3d9c2908e7e.png)
+![2 – 2](https://user-images.githubusercontent.com/25367933/118401311-2130eb80-b65d-11eb-98eb-a7b653a40db1.png)
+![2 – 3](https://user-images.githubusercontent.com/25367933/118401306-1e35fb00-b65d-11eb-9f95-0b606b6a0dea.png)
+
 *BlUE SCREEN OF DEATH* updated
 
 -Microsoft Office 10 Lite /
