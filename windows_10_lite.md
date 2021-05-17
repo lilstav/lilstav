@@ -115,15 +115,6 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 
-[ATM system display]
-New ATM system technologies is a great way to minimize data consomption and provide a great user experience
-![atmdisplay](https://user-images.githubusercontent.com/25367933/118416540-2404fe00-b6a8-11eb-82c8-c959cea48774.png)
-![atmreader](https://user-images.githubusercontent.com/25367933/118416670-c58c4f80-b6a8-11eb-81b7-ab0e8785a75c.png)
-![2 – 1](https://user-images.githubusercontent.com/25367933/118416246-a12f7380-b6a6-11eb-8990-20ef4d7d5021.png)
-![2 – 2](https://user-images.githubusercontent.com/25367933/118416253-adb3cc00-b6a6-11eb-8020-2cc92fd204ea.png)
-![2 – 3](https://user-images.githubusercontent.com/25367933/118418029-a690bc00-b6ae-11eb-9bde-a75b299be55f.png)
-![2 – 5](https://user-images.githubusercontent.com/25367933/118419138-1d2fb880-b6b3-11eb-94ee-cc729fae31d1.png)
-
 *BlUE SCREEN OF DEATH* updated
 
 -Microsoft Office 10 Lite /
