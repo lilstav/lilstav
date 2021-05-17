@@ -121,8 +121,8 @@ New ATM system technologies is a great way to minimize data consomption and prov
 ![atmreader](https://user-images.githubusercontent.com/25367933/118416670-c58c4f80-b6a8-11eb-81b7-ab0e8785a75c.png)
 ![2 – 1](https://user-images.githubusercontent.com/25367933/118416246-a12f7380-b6a6-11eb-8990-20ef4d7d5021.png)
 ![2 – 2](https://user-images.githubusercontent.com/25367933/118416253-adb3cc00-b6a6-11eb-8020-2cc92fd204ea.png)
-![2 – 3](https://user-images.githubusercontent.com/25367933/118416256-b1475300-b6a6-11eb-9cbb-36caaea6eb82.png)
-![2 – 4](https://user-images.githubusercontent.com/25367933/118416258-b2788000-b6a6-11eb-87db-26d186e88a65.png)
+![2 – 3](https://user-images.githubusercontent.com/25367933/118418029-a690bc00-b6ae-11eb-9bde-a75b299be55f.png)
+![2 – 4](https://user-images.githubusercontent.com/25367933/118418031-a7c1e900-b6ae-11eb-855f-a040b186052d.png)
 
 *BlUE SCREEN OF DEATH* updated
 
