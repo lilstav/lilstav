@@ -1,6 +1,5 @@
 [Windows 10 Lite]
 ![1](https://user-images.githubusercontent.com/25367933/119359797-e3a61100-bca1-11eb-96f9-fe9e4e68e9a2.png)
-![Uploading 2.png…]()
 ![3](https://user-images.githubusercontent.com/25367933/119359807-e7399800-bca1-11eb-9c09-6881069439c2.png)
 ![4](https://user-images.githubusercontent.com/25367933/119359812-e9035b80-bca1-11eb-827c-dcbfc4927f3f.png)
 ![5](https://user-images.githubusercontent.com/25367933/119359815-e99bf200-bca1-11eb-9ea4-6377339d1d09.png)
