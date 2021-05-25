@@ -5,6 +5,7 @@ https://quran.com/2
 https://en.wikipedia.org/wiki/Organ_transplantation
 https://en.wikipedia.org/wiki/Cardiac_surgery
 https://en.wikipedia.org/wiki/LASIK
+https://en.wikipedia.org/wiki/Tobacco_smoking
 https://en.wikipedia.org/wiki/Plastic_surgery
 https://en.wikipedia.org/wiki/Amusement_park
 https://en.wikipedia.org/wiki/List_of_Jewish_actors
