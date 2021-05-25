@@ -13,6 +13,5 @@ https://en.wikipedia.org/wiki/Volatility_(chemistry)
 https://en.wikipedia.org/wiki/Bleach
 https://en.wikipedia.org/wiki/Amusement_park
 https://en.wikipedia.org/wiki/Lake_Compounce
-https://fr.wikipedia.org/wiki/Square_Enix
 https://fr.wikipedia.org/wiki/Soda
 https://fr.wikipedia.org/wiki/Coca-Cola
