@@ -2,7 +2,7 @@
 https://quran.com/1
 https://quran.com/2
 
-Thanks to everyone who tried to supports me.
+Thanks to everyone who tried to support me.
 
 https://en.wikipedia.org/wiki/Organ_transplantation
 https://en.wikipedia.org/wiki/Cardiac_surgery
@@ -16,7 +16,6 @@ https://en.wikipedia.org/wiki/Ontario_wine
 https://en.wikipedia.org/wiki/Ethanol
 https://en.wikipedia.org/wiki/Volatility_(chemistry)
 https://en.wikipedia.org/wiki/Bleach
-https://en.wikipedia.org/wiki/Amusement_park
 https://en.wikipedia.org/wiki/Lake_Compounce
 https://fr.wikipedia.org/wiki/Soda
 https://fr.wikipedia.org/wiki/Coca-Cola
