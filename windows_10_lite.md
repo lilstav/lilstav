@@ -2,7 +2,8 @@
 
 Secure and private 64-bit only
 
-[Introduction] Windows 10 Lite is a windows 10 concept rebuild with a clean and minimalist look added to it
+[Introduction] Windows 10 Lite is a windows 10 concept  rebuild with a clean and minimalist look added to it
+No one see your personal monitor and your private informations stays yours
 
 [Build] 1.0.0.5
 
