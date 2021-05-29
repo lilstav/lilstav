@@ -2,6 +2,8 @@
 https://quran.com/1
 https://quran.com/2
 
+Im not here to blame peoples who desciminate me and thanks to everyone who tried to support me.
+
 https://en.wikipedia.org/wiki/Organ_transplantation
 https://en.wikipedia.org/wiki/Cardiac_surgery
 https://en.wikipedia.org/wiki/LASIK
