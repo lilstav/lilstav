@@ -16,8 +16,8 @@
 ![2 – 13](https://user-images.githubusercontent.com/25367933/118490780-33bb2b80-b716-11eb-8b3c-47a353d29821.png)
 ![2 – 14](https://user-images.githubusercontent.com/25367933/118869625-872ba600-b8dd-11eb-8c3a-998b2a02751a.png)
 ![2 – 15](https://user-images.githubusercontent.com/25367933/118869629-885cd300-b8dd-11eb-9058-fd4bb2a9860e.png)
-![9 – 10](https://user-images.githubusercontent.com/25367933/118734168-b7b80500-b835-11eb-9291-0531a757dd43.png)
-![9 – 11](https://user-images.githubusercontent.com/25367933/118734171-b8e93200-b835-11eb-8385-a48a31274e15.png)
-![9 – 12](https://user-images.githubusercontent.com/25367933/118734173-ba1a5f00-b835-11eb-9b52-2c873308d9d5.png)
+![9 – 11](https://user-images.githubusercontent.com/25367933/120901103-a857fa80-c630-11eb-91da-10a8dd9a1329.png)
+![9 – 15](https://user-images.githubusercontent.com/25367933/120901104-aaba5480-c630-11eb-82ef-cef0ebaa1e92.png)
+![9 – 16](https://user-images.githubusercontent.com/25367933/120901106-abeb8180-c630-11eb-8dd4-fb9a16403f08.png)
 ![9 – 12](https://user-images.githubusercontent.com/25367933/120901003-0e904d80-c630-11eb-9f19-e9dc45f62334.png)
 [Copyrights (c) 2021] Kais Saidi
