@@ -1,4 +1,4 @@
-![9 – 7](https://user-images.githubusercontent.com/25367933/118423718-874d5b00-b6bd-11eb-905d-79cdfaf114a1.png)
+![9 – 7](https://user-images.githubusercontent.com/25367933/120900577-5c578680-c62d-11eb-9892-35fc3c5bca71.png)
 ![9 – 8](https://user-images.githubusercontent.com/25367933/118423721-89171e80-b6bd-11eb-8568-3b6b7a21382e.png)
 ![2 – 1](https://user-images.githubusercontent.com/25367933/120900355-44cbce00-c62c-11eb-96bb-3a3736cd307b.png)
 63.1KB
