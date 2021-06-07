@@ -48,6 +48,10 @@
 ![40](https://user-images.githubusercontent.com/25367933/118293457-966fb580-b4d1-11eb-9bb4-15d2a25983a3.png)
 ![42 – 7](https://user-images.githubusercontent.com/25367933/118403719-9b666d80-b667-11eb-8909-2f578db397dd.png)
 ![41](https://user-images.githubusercontent.com/25367933/118293463-97a0e280-b4d1-11eb-8325-bb15eb1f3cde.png)
+![19 – 4](https://user-images.githubusercontent.com/25367933/121090713-e1cf6800-c7e0-11eb-91ef-8e9dd98b8d2f.png)
+![19 – 5](https://user-images.githubusercontent.com/25367933/121090725-e562ef00-c7e0-11eb-8b1e-592ffe1711b1.png)
+![20 – 9](https://user-images.githubusercontent.com/25367933/121090733-e72cb280-c7e0-11eb-8aa1-11db10dc7d48.png)
+![20 – 10](https://user-images.githubusercontent.com/25367933/121090736-e85ddf80-c7e0-11eb-8977-e074d9b529bc.png)
 
 [Windows 10 Lite Server Edition]
 ![42 – 11](https://user-images.githubusercontent.com/25367933/118403724-a1f4e500-b667-11eb-9ee2-8a18aa673916.png)
@@ -55,3 +59,4 @@
 ![43](https://user-images.githubusercontent.com/25367933/118345378-03179e00-b52c-11eb-8a24-37526167a0bb.png)
 ![44](https://user-images.githubusercontent.com/25367933/118308574-038c4680-b4e4-11eb-86b7-c829da90980a.png)
 ![44 – 2](https://user-images.githubusercontent.com/25367933/118346474-a15b3200-b533-11eb-9eb6-ea6b9a4f6bc8.png)
+[Copyrights (c) 2021] Kais Saidi
