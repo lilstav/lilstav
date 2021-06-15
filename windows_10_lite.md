@@ -118,7 +118,7 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 
 *BlUE SCREEN OF DEATH* updated
-[windows_10_lite.zip](https://github.com/lilstav/lilstav/files/6652795/windows_10_lite.zip)
+[windows_10_lite.zip](https://github.com/lilstav/lilstav/files/6657214/windows_10_lite.zip)
 
 -Microsoft Office 10 Lite /
 -Services / Facebook concept is used as example (old/new front page redesign) in Edge browser 
