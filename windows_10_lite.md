@@ -1,4 +1,3 @@
-![117924281-68ca1700-b2ed-11eb-9369-590325cfaf34](https://user-images.githubusercontent.com/25367933/118209433-81a70980-b460-11eb-94d3-dd4eda748036.png)
 ![20 – 12](https://user-images.githubusercontent.com/25367933/124489259-b1abc280-dda8-11eb-8eb4-70f3f415e36a.png)
 Secure and private 64-bit only
 
