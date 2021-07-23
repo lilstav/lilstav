@@ -26,6 +26,7 @@ Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHm
 ![1 – 4](https://user-images.githubusercontent.com/25367933/118266127-1554f600-b4b2-11eb-8646-7d1ed6610810.png)
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 https://www.adobe.com/products/xd.html
+
 [windows_10_lite.zip](https://github.com/lilstav/lilstav/files/6765223/windows_10_lite.zip)
 
 -Microsoft Office 10 Lite /
