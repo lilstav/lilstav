@@ -15,7 +15,7 @@ System requirements
 
 ![ver3](https://user-images.githubusercontent.com/25367933/118336459-a73c1d80-b509-11eb-8337-1352154b437a.PNG)
 
-Microsoft Windows 10 Lite Server Cloud : https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHmjKPH7auo?e=0k938C
+Microsoft Windows 10 Lite Server: https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHmjKPH7auo?e=0k938C
 
 [Security lock for bios]
 ![1 – 0](https://user-images.githubusercontent.com/25367933/118372293-dc4b7d00-b5a8-11eb-9dc4-e5de49f36922.png)
