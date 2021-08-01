@@ -26,7 +26,8 @@
 ![9 – 15](https://user-images.githubusercontent.com/25367933/120901104-aaba5480-c630-11eb-82ef-cef0ebaa1e92.png)
 ![9 – 16](https://user-images.githubusercontent.com/25367933/120901106-abeb8180-c630-11eb-8dd4-fb9a16403f08.png)
 ![9 – 12](https://user-images.githubusercontent.com/25367933/120901003-0e904d80-c630-11eb-9f19-e9dc45f62334.png)
-![2 – 41](https://user-images.githubusercontent.com/25367933/126864584-82cfcfb7-ffe0-4258-8c84-6c932b5298f3.png)
+![2 – 41](https://user-images.githubusercontent.com/25367933/127777938-57ddd44e-9a29-4fc0-8af7-1c0cf45e05d2.png)
+![2 – 42](https://user-images.githubusercontent.com/25367933/127777943-9a56b34e-339d-46af-a37b-b07d6fac7aed.png)
 https://www.adobe.com/products/xd.html
 
 [atm_bank_project.zip](https://github.com/lilstav/lilstav/files/6870497/atm_bank_project.zip)
