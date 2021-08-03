@@ -27,10 +27,7 @@ Microsoft Windows 10 Lite Server: https://1drv.ms/w/s!AtylO2FlqBPiaf2HaHmjKPH7au
 ![1 – 5](https://user-images.githubusercontent.com/25367933/118269168-49cab100-b4b6-11eb-86f7-0f1ac6afda13.png)
 https://www.adobe.com/products/xd.html
 
-[windows_10_lite.zip](https://github.com/lilstav/lilstav/files/6925991/windows_10_lite.zip)
+[windows_10_lite.zip](https://github.com/lilstav/lilstav/files/6926044/windows_10_lite.zip)
 
--Microsoft Office 10 Lite /
--Services / Facebook concept is used as example (old/new front page redesign) in Edge browser 
-Intel CPU is used as example Vega 120 is used as example 
-AMD Ryzen is used as example 
+-Microsoft Office 10 Lite / Services / Facebook concept (old/new front page redesign) in Edge browser / Intel CPU Vega 120 / AMD Ryzen are used as example 
 [Copyrights (c) 2021] Kais Saidi
