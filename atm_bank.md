@@ -32,7 +32,7 @@
 ![2 – 43](https://user-images.githubusercontent.com/25367933/127778279-75c78d7e-e768-4146-847e-994f241e0ac0.png)
 ![2 – 44](https://user-images.githubusercontent.com/25367933/127778286-77869acd-6ce4-40aa-9abf-b6a97be37460.png)
 ![2 – 49](https://user-images.githubusercontent.com/25367933/128169855-e5553cf2-4ba4-42d8-b0ef-31a892d38b30.png)
-![2 – 50](https://user-images.githubusercontent.com/25367933/128169862-402254c2-139f-46ec-8d28-29c73158130b.png)
+![2 – 50](https://user-images.githubusercontent.com/25367933/128225702-2fdd42f7-e21c-437d-8bc7-59b3b3770a89.png)
 ![2 – 51](https://user-images.githubusercontent.com/25367933/128169868-705f59a0-a071-4b46-8394-80c17721f8fb.png)
 ![2 – 52](https://user-images.githubusercontent.com/25367933/128169877-75091800-dbdc-4f96-bdf8-64fa66a196c5.png)
 ![2 – 49](https://user-images.githubusercontent.com/25367933/128169885-263f489e-980f-4017-bb10-2c1269242195.png)
@@ -43,5 +43,5 @@
 
 https://www.adobe.com/products/xd.html
 
-[atm_bank_project.zip](https://github.com/lilstav/lilstav/files/6930690/atm_bank_project.zip)
+[atm_bank_project.zip](https://github.com/lilstav/lilstav/files/6933268/atm_bank_project.zip)
 [Copyrights (c) 2021] Kais Saidi
