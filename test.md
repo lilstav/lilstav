@@ -1,6 +1,6 @@
 ![test – 1](https://user-images.githubusercontent.com/25367933/128461503-8f38d1aa-e91a-4219-998b-c7c665253661.png)
-![test – 2](https://user-images.githubusercontent.com/25367933/128560835-c846410c-0016-4c3c-81bd-b2bd9b23847a.png)
-![test – 3](https://user-images.githubusercontent.com/25367933/128599972-20bff977-64ca-4957-a774-f796f985cdb6.png)
+![test – 2](https://user-images.githubusercontent.com/25367933/128599988-37dcfded-9f33-4b48-8f58-91bbf17483df.png)
+![test – 3](https://user-images.githubusercontent.com/25367933/128599982-4dd60705-ac21-4269-a8d8-e20ff2476a9b.png)
 ![test – 4](https://user-images.githubusercontent.com/25367933/128521375-49dedeb0-4f35-44e3-8fca-2d0d2d7b7161.png)
 ![test – 5](https://user-images.githubusercontent.com/25367933/128506668-e29c9739-34f0-4ed0-aa57-272a91cecfeb.png)
 [test.zip](https://github.com/lilstav/lilstav/files/6949061/test.zip)
